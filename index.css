@@ -49,3 +49,20 @@ footer p {
 nav a:hover {
     color: #5bbe42;
 }
+
+button {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+    height: 30px;
+}
+
+p h3 {
+    display: flex;
+width: 1000px;
+}
+
+h3 {
+    color: #7ffdb8;
+}
